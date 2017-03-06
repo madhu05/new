@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-"""This module provides functions for authenticating users."""
+"""This module provides functions for authenticating the users."""
 
 def login(username, password):
     """Log the user in."""
